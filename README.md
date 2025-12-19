@@ -1,4 +1,4 @@
-# 📦 E-Commerce Funnel Intelligence: Mobile Revenue Gap Analysis
+# 📦 E-Commerce Revenue Gap Analysis
 
 A deep-dive funnel and device-performance analysis on **50,000+ user events** revealing a **$27K/month mobile revenue gap** and uncovering **$50K+ monthly ROI opportunities** through conversion optimization, app promotion, and search improvement.
 
